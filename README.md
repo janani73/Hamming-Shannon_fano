@@ -72,3 +72,6 @@ Redundancy is : 0.076
 Variance is : 0.232
 
 ```
+# Result:
+```
+The values are calculated successfully.
